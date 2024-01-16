@@ -1,2 +1,2 @@
-githubupload1/build/
-githubupload1/*.user
+*/build/
+*/*.user
