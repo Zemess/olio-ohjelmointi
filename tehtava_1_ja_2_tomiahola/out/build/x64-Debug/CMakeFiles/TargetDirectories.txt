@@ -1,0 +1,6 @@
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/tehtava_1_ja_2_tomiahola.dir
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug/CMakeFiles/install/local.dir

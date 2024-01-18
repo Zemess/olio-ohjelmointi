@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-612f1f67cf65561499e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tehtava_1_ja_2_tomiahola",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tehtava_1_ja_2_tomiahola::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tehtava_1_ja_2_tomiahola-Debug-4a45753164a6b0771d38.json",
+					"name" : "tehtava_1_ja_2_tomiahola",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola/out/build/x64-Debug",
+		"source" : "C:/Users/tomia/OneDrive/Documents/Koulu 2023/olio-ohjelmointi/tehtava_1_ja_2_tomiahola"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
