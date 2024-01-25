@@ -12,7 +12,7 @@ void Game::play(){
     randomNumber = rand() % maxNumber +1;
     do {
 
-        cout << "Give your guess between 1 - 10" << endl;
+        cout << "Give your guess between 1 - " << maxNumber << endl;
         cin >> playerGuess;
         ++numOfGuesses;
 
