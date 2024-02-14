@@ -1,0 +1,15 @@
+#include "chef.h"
+
+
+Chef::Chef(string koknamn)
+{
+    Name = koknamn;
+    cout<< "Chef " << name << " konstruktori" << endl;
+}
+void  makeSalad(){
+    cout << "Chef " << name << " makes salad" << endl;
+}
+void makeSoup(){
+    cout << "Chef" << name << " makes soup" << endl;
+}
+

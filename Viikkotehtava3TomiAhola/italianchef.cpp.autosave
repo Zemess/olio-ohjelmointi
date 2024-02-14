@@ -1,0 +1,19 @@
+#include "italianchef.h"
+
+ItalianChef::ItalianChef(string knimi, int water, int flour):Chef(knimi)
+{
+    int water = vesi;
+    
+    name = knimi;
+    cout << "Chef " << getName() << " konstruktori" << endl;
+}
+string ItalianChef::getName()
+{
+    return name;
+}
+void ItalianChef::makePasta()
+{
+    cout << "Chef " << getName() << " makes pasta" << endl;
+}
+
+
